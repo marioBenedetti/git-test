@@ -1,0 +1,5 @@
+C:\ROE_1.9V\git-test\WebTest\WebTest\bin\WebTest.dll
+C:\ROE_1.9V\git-test\WebTest\WebTest\bin\WebTest.pdb
+C:\ROE_1.9V\git-test\WebTest\WebTest\obj\Debug\WebTest.csprojResolveAssemblyReference.cache
+C:\ROE_1.9V\git-test\WebTest\WebTest\obj\Debug\WebTest.dll
+C:\ROE_1.9V\git-test\WebTest\WebTest\obj\Debug\WebTest.pdb
